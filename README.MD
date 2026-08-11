@@ -106,7 +106,7 @@ Hyperparameter tuning reduced overfitting while maintaining the testing performa
 - Passenger class was associated with survival rates.
 - Fare showed a highly right-skewed distribution.
 - The original Decision Tree showed significant overfitting.
-- Hyperparameter tuning substantially reduced overfitting.
+- Hyperparameter tuning substantially reduced over fitting.
 - The Tuned Random Forest achieved the highest testing accuracy among the evaluated models.
 
 ---
