@@ -122,6 +122,6 @@ Hyperparameter tuning reduced overfitting while maintaining the testing performa
 ---
 ## Author
 
-Pavan Pal
+Pavan Saroj Pal
 
 B.Sc. Data Science Student
