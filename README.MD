@@ -65,17 +65,7 @@ The main training dataset contains information about passengers, including:
 ---
 ## Project Structure
 
-Titanic-Survival-Analysis/
-│
-├── data/
-├── notebooks/
-├── models/
-├── images/
-├── reports/
-├── src/
-├── README.md
-├── requirements.txt
-└── .gitignore
+Titanic-Survival-Analysis/ > ── data/ > ── notebooks/ > ── models/ > ── images/ > ── reports/ > ── src/ > ── README.md > ── requirements.txt > ── .gitignore
 
 ---
 ## Model Results
