@@ -63,7 +63,7 @@ The main training dataset contains information about passengers, including:
 10. Model Saving
 
 ---
-## Project Structure
+## Structure of the project 
 
 Titanic-Survival-Analysis/ > ── data/ > ── notebooks/ > ── models/ > ── images/ > ── reports/ > ── src/ > ── README.md > ── requirements.txt > ── .gitignore
 
