@@ -38,7 +38,7 @@ The main training dataset contains information about passengers, including:
 
 ---
 
-## Technologies Used
+## Technologies Used in the project 
 - Python
 - Pandas
 - NumPy
