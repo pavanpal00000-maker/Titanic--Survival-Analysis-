@@ -87,7 +87,21 @@ The Tuned Random Forest was selected as the final model.
 - Testing Accuracy: 81.56%
 - Accuracy Gap: 3.83%
 
-Hyperparameter tuning reduced overfitting while maintaining the testing performance of the model.
+Although the testing accuracy remained the same as the original Random Forest, hyperparameter tuning significantly reduced the training-testing accuracy gap, indicating reduced overfitting.
+
+## Model Visualizations
+
+### Final Model Testing Accuracy Comparison
+
+![Model Comparison](Images/model_comparison.png)
+
+### Feature Importance — Tuned Random Forest
+
+![Feature Importance](Images/feature_importance.png)
+
+### Confusion Matrix — Tuned Random Forest
+
+![Confusion Matrix](Images/confusion_matrix_tuned_random_forest.png)
 
 ---
 ## Key Insights
